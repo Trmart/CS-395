@@ -1,8 +1,7 @@
 /*********************************************
  * Id: mart8517
  * 
- * This program finds implements insertionSort
- * sorting an array of non-negative integers
+ * This program finds a permutations of a given string
  *********************************************/ 
 
 #include <stdio.h>
